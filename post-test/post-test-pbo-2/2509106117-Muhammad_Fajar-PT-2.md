@@ -1,5 +1,11 @@
 # Sistem Minimarket Untuk Penjualan Snack, Minuman, dan Makanan
 
+```text
+NIM = 2509106117
+NAMA = MUHAMMAD FAJAR
+KELAS = C2'25
+```
+
 ## 1. Deskripsi Program
 
 Program ini merupakan sistem sederhana untuk mengelola kegiatan penjualan pada **Minimarket Muhammad Fajar**.
