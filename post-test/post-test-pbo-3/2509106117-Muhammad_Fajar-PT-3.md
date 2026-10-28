@@ -61,13 +61,13 @@ Program menerapkan **Dependency Inversion Principle (DIP)** secara sederhana pad
 ### Screenshot Output
 
 1. **Output Program**
-![Output Program](program1.png)
-![Output Program](program2.png)
-![Output Program](program3.png)
-![Output Program](program4.png)
-![Output Program](program5.png)
-![Output Program](program6.png)
-![Output Program](program7.png)
+![Output Program](Program1.png)
+![Output Program](Program2.png)
+![Output Program](Program3.png)
+![Output Program](Program4.png)
+![Output Program](Program5.png)
+![Output Program](Program6.png)
+![Output Program](Program7.png)
 
 2. **Output Abstraksi class tidak bisa diinstansiasi dan bisa diinstansiasi**
 ![Output Abstraksi Tidak Bisa diinstansiasi](abstrak_class_tidak_bisa_diinstansiasi.png)
