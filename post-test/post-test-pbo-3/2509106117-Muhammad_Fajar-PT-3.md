@@ -1,22 +1,16 @@
 # Sistem Minimarket untuk Penjualan Snack, Minuman, dan Makanan
 
+```text
+NIM = 2509106117
+NAMA = MUHAMMAD FAJAR
+KELAS = C2'25
+```
+
 ## Deskripsi Program
 
 Program ini merupakan lanjutan dari program Posttest 2. Program digunakan untuk menggambarkan proses sederhana minimarket, mulai dari pengelolaan produk, pelanggan, transaksi, detail transaksi, hingga pembayaran. Jenis produk yang tersedia meliputi snack, minuman, dan makanan.
 
 File Python Posttest 3 mempertahankan kode Posttest 2 di bagian awal, kemudian menambahkan penerapan abstraksi, polimorfisme, operator overloading, serta satu prinsip SOLID. Program menggunakan Python dan tidak membutuhkan pustaka tambahan di luar pustaka standar.
-
-## Cara Menjalankan
-
-1. Pastikan Python 3 sudah terpasang.
-2. Buka terminal pada folder yang berisi file program.
-3. Jalankan perintah berikut:
-
-   ```bash
-   python 2509106117-Muhammad_Fajar-PT-3.py
-   ```
-
-   Perintah tersebut menjalankan seluruh pengujian program dari Posttest 2 dan bagian lanjutan Posttest 3.
 
 ## Class Diagram
 
